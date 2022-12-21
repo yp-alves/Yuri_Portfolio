@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Yuri</title>
+    <link>https://yp-alves.github.io/Yuri_Portfolio/techs/python/</link>
+    <description>Recent content in Python on Yuri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Yuri</copyright>
+    <lastBuildDate>Mon, 02 May 2022 19:47:09 +0200</lastBuildDate><atom:link href="https://yp-alves.github.io/Yuri_Portfolio/techs/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advertising Project</title>
+      <link>https://yp-alves.github.io/Yuri_Portfolio/portfolio/advertising-project/</link>
+      <pubDate>Mon, 02 May 2022 19:47:09 +0200</pubDate>
+      
+      <guid>https://yp-alves.github.io/Yuri_Portfolio/portfolio/advertising-project/</guid>
+      <description>This project analyzes an e-learning company that wants to promote one of its products by investing in advertising. We will thoroughly analyze the e-learning market and develop a targeted advertising campaign to achieve this goal.
+The company provided data from a survey where users of its platform informed personal data, goals, and availability to purchase products. The task is to define the best markets to invest in advertising.</description>
+    </item>
+    
+    <item>
+      <title>Russian Currency Project</title>
+      <link>https://yp-alves.github.io/Yuri_Portfolio/portfolio/russian-project/</link>
+      <pubDate>Sun, 02 May 2021 19:47:09 +0200</pubDate>
+      
+      <guid>https://yp-alves.github.io/Yuri_Portfolio/portfolio/russian-project/</guid>
+      <description>An analysis was carried out using Russia&amp;rsquo;s exchange rate data to assess how the country&amp;rsquo;s economy behaves in times of international conflict.
+In this project we use Pandas and Matoplotlib to analyze our data and create an image that tells their story.</description>
+    </item>
+    
+    <item>
+      <title>URSAL project</title>
+      <link>https://yp-alves.github.io/Yuri_Portfolio/portfolio/ursal-project/</link>
+      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://yp-alves.github.io/Yuri_Portfolio/portfolio/ursal-project/</guid>
+      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
+Subarashi Naninimo nanimo</description>
+    </item>
+    
+  </channel>
+</rss>
