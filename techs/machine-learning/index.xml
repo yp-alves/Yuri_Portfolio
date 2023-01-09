@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Yuri</title>
+    <link>https://yp-alves.github.io/Yuri_Portfolio/techs/machine-learning/</link>
+    <description>Recent content in Machine Learning on Yuri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Yuri</copyright>
+    <lastBuildDate>Sat, 07 Jan 2023 19:47:09 +0200</lastBuildDate><atom:link href="https://yp-alves.github.io/Yuri_Portfolio/techs/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spam Filter Project</title>
+      <link>https://yp-alves.github.io/Yuri_Portfolio/portfolio/spam_filter-project/</link>
+      <pubDate>Sat, 07 Jan 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://yp-alves.github.io/Yuri_Portfolio/portfolio/spam_filter-project/</guid>
+      <description>In this project, we&amp;rsquo;re going to create a spam filter that classifies new messages with an accuracy greater than 80% — so we expect that more than 80% of the new messages will be classified correctly as spam or ham(non-spam). To do that, we&amp;rsquo;ll use the multinomial Naive Bayes algorithm along with a dataset of 5,572 SMS messages that are already classified by humans.</description>
+    </item>
+    
+  </channel>
+</rss>

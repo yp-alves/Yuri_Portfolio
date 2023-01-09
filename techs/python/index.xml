@@ -7,11 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Yuri</copyright>
-    <lastBuildDate>Mon, 02 May 2022 19:47:09 +0200</lastBuildDate><atom:link href="https://yp-alves.github.io/Yuri_Portfolio/techs/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 19:47:09 +0200</lastBuildDate><atom:link href="https://yp-alves.github.io/Yuri_Portfolio/techs/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spam Filter Project</title>
+      <link>https://yp-alves.github.io/Yuri_Portfolio/portfolio/spam_filter-project/</link>
+      <pubDate>Sat, 07 Jan 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://yp-alves.github.io/Yuri_Portfolio/portfolio/spam_filter-project/</guid>
+      <description>In this project, we&amp;rsquo;re going to create a spam filter that classifies new messages with an accuracy greater than 80% — so we expect that more than 80% of the new messages will be classified correctly as spam or ham(non-spam). To do that, we&amp;rsquo;ll use the multinomial Naive Bayes algorithm along with a dataset of 5,572 SMS messages that are already classified by humans.</description>
+    </item>
+    
     <item>
       <title>Advertising Project</title>
       <link>https://yp-alves.github.io/Yuri_Portfolio/portfolio/advertising-project/</link>
-      <pubDate>Mon, 02 May 2022 19:47:09 +0200</pubDate>
+      <pubDate>Tue, 02 Aug 2022 19:47:09 +0200</pubDate>
       
       <guid>https://yp-alves.github.io/Yuri_Portfolio/portfolio/advertising-project/</guid>
       <description>This project analyzes an e-learning company that wants to promote one of its products by investing in advertising. We will thoroughly analyze the e-learning market and develop a targeted advertising campaign to achieve this goal.
@@ -21,21 +30,11 @@ The company provided data from a survey where users of its platform informed per
     <item>
       <title>Russian Currency Project</title>
       <link>https://yp-alves.github.io/Yuri_Portfolio/portfolio/russian-project/</link>
-      <pubDate>Sun, 02 May 2021 19:47:09 +0200</pubDate>
+      <pubDate>Mon, 02 May 2022 19:47:09 +0200</pubDate>
       
       <guid>https://yp-alves.github.io/Yuri_Portfolio/portfolio/russian-project/</guid>
       <description>An analysis was carried out using Russia&amp;rsquo;s exchange rate data to assess how the country&amp;rsquo;s economy behaves in times of international conflict.
 In this project we use Pandas and Matoplotlib to analyze our data and create an image that tells their story.</description>
-    </item>
-    
-    <item>
-      <title>URSAL project</title>
-      <link>https://yp-alves.github.io/Yuri_Portfolio/portfolio/ursal-project/</link>
-      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
-      
-      <guid>https://yp-alves.github.io/Yuri_Portfolio/portfolio/ursal-project/</guid>
-      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
-Subarashi Naninimo nanimo</description>
     </item>
     
   </channel>

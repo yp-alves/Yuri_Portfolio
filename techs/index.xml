@@ -7,20 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Yuri</copyright>
-    <lastBuildDate>Mon, 02 May 2022 19:47:09 +0200</lastBuildDate><atom:link href="https://yp-alves.github.io/Yuri_Portfolio/techs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 19:47:09 +0200</lastBuildDate><atom:link href="https://yp-alves.github.io/Yuri_Portfolio/techs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jupyter Notebook</title>
       <link>https://yp-alves.github.io/Yuri_Portfolio/techs/jupyter-notebook/</link>
-      <pubDate>Mon, 02 May 2022 19:47:09 +0200</pubDate>
+      <pubDate>Sat, 07 Jan 2023 19:47:09 +0200</pubDate>
       
       <guid>https://yp-alves.github.io/Yuri_Portfolio/techs/jupyter-notebook/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Machine Learning</title>
+      <link>https://yp-alves.github.io/Yuri_Portfolio/techs/machine-learning/</link>
+      <pubDate>Sat, 07 Jan 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://yp-alves.github.io/Yuri_Portfolio/techs/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>https://yp-alves.github.io/Yuri_Portfolio/techs/python/</link>
-      <pubDate>Mon, 02 May 2022 19:47:09 +0200</pubDate>
+      <pubDate>Sat, 07 Jan 2023 19:47:09 +0200</pubDate>
       
       <guid>https://yp-alves.github.io/Yuri_Portfolio/techs/python/</guid>
       <description></description>
@@ -29,18 +38,9 @@
     <item>
       <title>Statistics</title>
       <link>https://yp-alves.github.io/Yuri_Portfolio/techs/statistics/</link>
-      <pubDate>Mon, 02 May 2022 19:47:09 +0200</pubDate>
+      <pubDate>Tue, 02 Aug 2022 19:47:09 +0200</pubDate>
       
       <guid>https://yp-alves.github.io/Yuri_Portfolio/techs/statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jupyter</title>
-      <link>https://yp-alves.github.io/Yuri_Portfolio/techs/jupyter/</link>
-      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
-      
-      <guid>https://yp-alves.github.io/Yuri_Portfolio/techs/jupyter/</guid>
       <description></description>
     </item>
     
