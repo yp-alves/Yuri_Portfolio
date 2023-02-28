@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Yuri</title>
+    <link>https://yp-alves.github.io/Yuri_Portfolio/techs/sql/</link>
+    <description>Recent content in SQL on Yuri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Yuri</copyright>
+    <lastBuildDate>Thu, 02 Feb 2023 19:47:09 +0200</lastBuildDate><atom:link href="https://yp-alves.github.io/Yuri_Portfolio/techs/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customer and Product Analysis using SQL</title>
+      <link>https://yp-alves.github.io/Yuri_Portfolio/portfolio/cpa-project/</link>
+      <pubDate>Thu, 02 Feb 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://yp-alves.github.io/Yuri_Portfolio/portfolio/cpa-project/</guid>
+      <description>The database analysis was carried out using the DB Browser for SQLite to answer three questions about products and costumers.</description>
+    </item>
+    
+  </channel>
+</rss>
