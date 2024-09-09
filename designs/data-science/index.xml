@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning on Yuri</title>
-    <link>https://yp-alves.github.io/Yuri_Portfolio/techs/machine-learning/</link>
-    <description>Recent content in Machine Learning on Yuri</description>
+    <title>Data Science on Yuri</title>
+    <link>https://yp-alves.github.io/Yuri_Portfolio/designs/data-science/</link>
+    <description>Recent content in Data Science on Yuri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Yuri</copyright>
-    <lastBuildDate>Tue, 02 Jul 2024 19:47:09 +0200</lastBuildDate><atom:link href="https://yp-alves.github.io/Yuri_Portfolio/techs/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 19:47:09 +0200</lastBuildDate><atom:link href="https://yp-alves.github.io/Yuri_Portfolio/designs/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Defect Prediction in Truck Air Systems</title>
       <link>https://yp-alves.github.io/Yuri_Portfolio/portfolio/defect_prediction-project/</link>
@@ -20,15 +20,6 @@ Approach
 The data related to truck air system maintenance was analyzed and preprocessed. This included handling encoded columns and missing data to ensure the dataset was clean and suitable for modeling.
 2.Model Training and Evaluation:
 Various machine learning models were used to predict air system failures, including Random Forest, Gradient Boosting, and Naive Bayes.</description>
-    </item>
-    
-    <item>
-      <title>Spam Filter Project</title>
-      <link>https://yp-alves.github.io/Yuri_Portfolio/portfolio/spam_filter-project/</link>
-      <pubDate>Sat, 07 Jan 2023 19:47:09 +0200</pubDate>
-      
-      <guid>https://yp-alves.github.io/Yuri_Portfolio/portfolio/spam_filter-project/</guid>
-      <description>In this project, we&amp;rsquo;re going to create a spam filter that classifies new messages with an accuracy greater than 80% — so we expect that more than 80% of the new messages will be classified correctly as spam or ham(non-spam). To do that, we&amp;rsquo;ll use the multinomial Naive Bayes algorithm along with a dataset of 5,572 SMS messages that are already classified by humans.</description>
     </item>
     
   </channel>

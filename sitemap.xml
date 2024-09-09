@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yp-alves.github.io/Yuri_Portfolio/designs/data-science/</loc>
+    <lastmod>2024-07-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yp-alves.github.io/Yuri_Portfolio/portfolio/defect_prediction-project/</loc>
+    <lastmod>2024-07-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yp-alves.github.io/Yuri_Portfolio/designs/</loc>
+    <lastmod>2024-07-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yp-alves.github.io/Yuri_Portfolio/</loc>
+    <lastmod>2024-07-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yp-alves.github.io/Yuri_Portfolio/techs/machine-learning/</loc>
+    <lastmod>2024-07-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yp-alves.github.io/Yuri_Portfolio/portfolio/</loc>
+    <lastmod>2024-07-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yp-alves.github.io/Yuri_Portfolio/techs/python/</loc>
+    <lastmod>2024-07-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://yp-alves.github.io/Yuri_Portfolio/techs/</loc>
+    <lastmod>2024-07-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://yp-alves.github.io/Yuri_Portfolio/portfolio/cpa-project/</loc>
     <lastmod>2023-02-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -12,42 +52,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://yp-alves.github.io/Yuri_Portfolio/designs/</loc>
-    <lastmod>2023-02-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yp-alves.github.io/Yuri_Portfolio/</loc>
-    <lastmod>2023-02-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yp-alves.github.io/Yuri_Portfolio/portfolio/</loc>
-    <lastmod>2023-02-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://yp-alves.github.io/Yuri_Portfolio/techs/sql/</loc>
     <lastmod>2023-02-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://yp-alves.github.io/Yuri_Portfolio/techs/</loc>
-    <lastmod>2023-02-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://yp-alves.github.io/Yuri_Portfolio/techs/jupyter-notebook/</loc>
-    <lastmod>2023-01-07T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yp-alves.github.io/Yuri_Portfolio/techs/machine-learning/</loc>
-    <lastmod>2023-01-07T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://yp-alves.github.io/Yuri_Portfolio/techs/python/</loc>
     <lastmod>2023-01-07T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Yuri</copyright>
-    <lastBuildDate>Thu, 02 Feb 2023 19:47:09 +0200</lastBuildDate><atom:link href="https://yp-alves.github.io/Yuri_Portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 19:47:09 +0200</lastBuildDate><atom:link href="https://yp-alves.github.io/Yuri_Portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Defect Prediction in Truck Air Systems</title>
+      <link>https://yp-alves.github.io/Yuri_Portfolio/portfolio/defect_prediction-project/</link>
+      <pubDate>Tue, 02 Jul 2024 19:47:09 +0200</pubDate>
+      
+      <guid>https://yp-alves.github.io/Yuri_Portfolio/portfolio/defect_prediction-project/</guid>
+      <description>Project Overview In this project, data science techniques were applied to optimize the maintenance planning for a transportation company&amp;rsquo;s truck fleet, specifically focusing on the air system.
+Approach
+1.Data Analysis and Preprocessing:
+The data related to truck air system maintenance was analyzed and preprocessed. This included handling encoded columns and missing data to ensure the dataset was clean and suitable for modeling.
+2.Model Training and Evaluation:
+Various machine learning models were used to predict air system failures, including Random Forest, Gradient Boosting, and Naive Bayes.</description>
+    </item>
+    
     <item>
       <title>Customer and Product Analysis using SQL</title>
       <link>https://yp-alves.github.io/Yuri_Portfolio/portfolio/cpa-project/</link>
